@@ -16,7 +16,7 @@ Tiba2
 ```
 
 
-![Screenshot](test.png)
+![Screenshot](test.png) <br />
 This is the trained model of usefashrfi dataset:  <br />
 
 [usefashrfi](https://www.kaggle.com/datasets/usefashrfi/iran-used-cars-dataset "usefashrfi")
